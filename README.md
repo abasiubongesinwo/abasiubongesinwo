@@ -5,13 +5,13 @@
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-codewithesinwo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codewithesinwo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/codewithesinwo)
 &nbsp;
-[![Phone](https://img.shields.io/badge/Phone-%2B2347045559667-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+2347045559667)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/2347045559667)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=codewithesinwo&style=flat-square&color=0ea5e9&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=abasiubongesinwo&style=flat-square&color=0ea5e9&label=Profile%20Visitors)
 
 </div>
 
@@ -54,27 +54,41 @@ My core strength lies in bridging the gap between design and engineering — tur
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Live GitHub Statistics
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=codewithesinwo&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" />
+<!-- Dynamic GitHub Stats with Auto-Update -->
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=abasiubongesinwo&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&cache_seconds=1800&animation=fadeIn" alt="GitHub Stats" />
 &nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesinwo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8&cache_seconds=1800&animation=fadeIn" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesinwo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=555" />
+<!-- Animated Contribution Streak -->
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=abasiubongesinwo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=555&stroke=0ea5e9&animation=fadeIn" alt="Contribution Streak" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=codewithesinwo&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<!-- Auto-updating Trophy Display -->
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=abasiubongesinwo&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&animation=fadeIn" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity (Auto-Updated)
+
+<div align="center">
+
+<!-- Live Contribution Graph with Animation -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abasiubongesinwo&bg_color=0d1117&color=0ea5e9&line=0284c7&point=f59e0b&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution%20Graph&animation=fadeIn" alt="Contribution Activity" />
 
 </div>
 
@@ -93,11 +107,11 @@ My core strength lies in bridging the gap between design and engineering — tur
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Quick Stats
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesinwo&bg_color=0d1117&color=0ea5e9&line=0284c7&point=f59e0b&area=true&area_color=0ea5e9&hide_border=true" />
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&hide=html&layout=pie&theme=github_dark&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&cache_seconds=1800)](https://github.com/abasiubongesinwo)
 
 </div>
 
@@ -111,9 +125,9 @@ I am open to **collaborations**, **freelance engagements**, and **full-time role
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
 &nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347045559667)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/2347045559667)
 
 <br/><br/>
 
