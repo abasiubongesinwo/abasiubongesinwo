@@ -5,9 +5,9 @@
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/codewithesinwo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/abasiubongesinwo)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:abasiubongesinwo@gmail.com)
 &nbsp;
@@ -289,7 +289,7 @@ I am open to **collaborations**, **freelance engagements**, **full-time roles**,
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo/)
 &nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/2347045559667)
 &nbsp;&nbsp;
