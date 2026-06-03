@@ -195,57 +195,6 @@ I'm currently diving deep into:
 | 🛒 E-commerce UI | Responsive storefront with cart & checkout flow | Next.js, TypeScript, CSS Modules | ✅ Live | [View →](https://ecommerce.example.com) |
 | 📋 Task Manager App | Full-stack productivity app with auth & CRUD | React, Node.js, MongoDB | 🔧 In Progress | [Repo →](https://github.com/abasiubongesinwo) |
 | 🎨 Component Library | Reusable UI components with documentation | React, Storybook, Tailwind | 🔧 In Progress | [View →](https://components.example.com) |
-
----
-
-## 💡 Featured Code Snippets
-
-### Beautiful React Hook Pattern
-```javascript
-// Custom hook for managing async data fetching
-const useFetch = (url) => {
-  const [state, setState] = React.useState({
-    data: null,
-    loading: true,
-    error: null,
-  });
-
-  React.useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch(url);
-        const data = await response.json();
-        setState({ data, loading: false, error: null });
-      } catch (error) {
-        setState({ data: null, loading: false, error });
-      }
-    };
-
-    fetchData();
-  }, [url]);
-
-  return state;
-};
-```
-
-### Tailwind + React Component
-```jsx
-// Reusable Button Component with variants
-export const Button = ({ variant = 'primary', children, ...props }) => {
-  const variants = {
-    primary: 'bg-blue-600 hover:bg-blue-700 text-white',
-    secondary: 'bg-gray-200 hover:bg-gray-300 text-gray-800',
-    danger: 'bg-red-600 hover:bg-red-700 text-white',
-  };
-
-  return (
-    <button className={`px-4 py-2 rounded-lg transition ${variants[variant]}`} {...props}>
-      {children}
-    </button>
-  );
-};
-```
-
 ---
 
 ## 💬 Testimonials & Recommendations
