@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=160&text=ABASIUBONG%20ESINWO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=94a3b8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0c2340&height=160&text=ABASIUBONG%20ESINWO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=06b6d4&animation=slideDown" />
 
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/abasiubongesinwo)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0c2340)](https://github.com/codewithesinwo)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:abasiubongesinwo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/2347045559667)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-3b82f6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0c2340)](https://wa.me/2347045559667)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=abasiubongesinwo&style=flat-square&color=0ea5e9&label=Profile%20Visitors)
+![Visitors](https://komarev.com/ghpvc/?username=abasiubongesinwo&style=for-the-badge&color=06b6d4&label=Profile%20Visitors&labelColor=0c2340)
 
 </div>
 
@@ -102,15 +102,15 @@ I believe in **simplicity with purpose**. Every feature should serve a user need
 
 <div align="center">
 
-<!-- Dynamic GitHub Stats with Auto-Update -->
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=abasiubongesinwo&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&cache_seconds=1800&animation=fadeIn" alt="GitHub Stats" />
+<!-- Dynamic GitHub Stats with Auto-Update - Blue & Cyan Theme -->
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=abasiubongesinwo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0c2340&title_color=3b82f6&icon_color=06b6d4&text_color=e0e7ff&cache_seconds=1800&animation=slideDown" alt="GitHub Stats" />
 &nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8&cache_seconds=1800&animation=fadeIn" alt="Top Languages" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c2340&title_color=3b82f6&text_color=e0e7ff&langs_count=8&cache_seconds=1800&animation=slideDown" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Animated Contribution Streak -->
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=abasiubongesinwo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=f59e0b&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=555&stroke=0ea5e9&animation=fadeIn" alt="Contribution Streak" />
+<!-- Animated Contribution Streak - Blue & Cyan -->
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=abasiubongesinwo&theme=tokyonight&hide_border=true&background=0c2340&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=e0e7ff&dates=555&stroke=06b6d4&animation=slideDown" alt="Contribution Streak" />
 
 </div>
 
@@ -120,8 +120,8 @@ I believe in **simplicity with purpose**. Every feature should serve a user need
 
 <div align="center">
 
-<!-- Auto-updating Trophy Display -->
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=abasiubongesinwo&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&animation=fadeIn" alt="GitHub Trophies" />
+<!-- Auto-updating Trophy Display - Blue Theme -->
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=abasiubongesinwo&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7&animation=slideDown" alt="GitHub Trophies" />
 
 </div>
 
@@ -131,8 +131,8 @@ I believe in **simplicity with purpose**. Every feature should serve a user need
 
 <div align="center">
 
-<!-- Live Contribution Graph with Animation -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abasiubongesinwo&bg_color=0d1117&color=0ea5e9&line=0284c7&point=f59e0b&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution%20Graph&animation=fadeIn" alt="Contribution Activity" />
+<!-- Live Contribution Graph with Animation - Blue & Cyan -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abasiubongesinwo&bg_color=0c2340&color=3b82f6&line=06b6d4&point=6366f1&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph&animation=slideDown" alt="Contribution Activity" />
 
 </div>
 
@@ -142,7 +142,7 @@ I believe in **simplicity with purpose**. Every feature should serve a user need
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&hide=html&layout=pie&theme=github_dark&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&cache_seconds=1800&animation=fadeIn" alt="Language Distribution" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&hide=html&layout=pie&theme=tokyonight&bg_color=0c2340&title_color=3b82f6&text_color=e0e7ff&cache_seconds=1800&animation=slideDown" alt="Language Distribution" />
 
 </div>
 
@@ -195,6 +195,57 @@ I'm currently diving deep into:
 | 🛒 E-commerce UI | Responsive storefront with cart & checkout flow | Next.js, TypeScript, CSS Modules | ✅ Live | [View →](https://ecommerce.example.com) |
 | 📋 Task Manager App | Full-stack productivity app with auth & CRUD | React, Node.js, MongoDB | 🔧 In Progress | [Repo →](https://github.com/abasiubongesinwo) |
 | 🎨 Component Library | Reusable UI components with documentation | React, Storybook, Tailwind | 🔧 In Progress | [View →](https://components.example.com) |
+
+---
+
+## 💡 Featured Code Snippets
+
+### Beautiful React Hook Pattern
+```javascript
+// Custom hook for managing async data fetching
+const useFetch = (url) => {
+  const [state, setState] = React.useState({
+    data: null,
+    loading: true,
+    error: null,
+  });
+
+  React.useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(url);
+        const data = await response.json();
+        setState({ data, loading: false, error: null });
+      } catch (error) {
+        setState({ data: null, loading: false, error });
+      }
+    };
+
+    fetchData();
+  }, [url]);
+
+  return state;
+};
+```
+
+### Tailwind + React Component
+```jsx
+// Reusable Button Component with variants
+export const Button = ({ variant = 'primary', children, ...props }) => {
+  const variants = {
+    primary: 'bg-blue-600 hover:bg-blue-700 text-white',
+    secondary: 'bg-cyan-500 hover:bg-cyan-600 text-white',
+    danger: 'bg-indigo-600 hover:bg-indigo-700 text-white',
+  };
+
+  return (
+    <button className={`px-4 py-2 rounded-lg transition ${variants[variant]}`} {...props}>
+      {children}
+    </button>
+  );
+};
+```
+
 ---
 
 ## 💬 Testimonials & Recommendations
@@ -238,14 +289,14 @@ I am open to **collaborations**, **freelance engagements**, **full-time roles**,
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/abasiubongesinwo/)
+[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
 &nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/2347045559667)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-06b6d4?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0c2340)](https://wa.me/2347045559667)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:abasiubongesinwo@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=60&section=footer&fontSize=13&fontColor=475569&text=Open%20to%20opportunities%20%C2%B7%20Based%20in%20Nigeria%20%C2%B7%20Available%20worldwide%20remotely&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c2340,100:1e3a8a&height=60&section=footer&fontSize=13&fontColor=06b6d4&text=Open%20to%20opportunities%20%C2%B7%20Based%20in%20Nigeria%20%C2%B7%20Available%20worldwide%20remotely&fontAlignY=55&animation=slideDown" />
 
 </div>
