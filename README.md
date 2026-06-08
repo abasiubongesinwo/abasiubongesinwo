@@ -198,56 +198,6 @@ I'm currently diving deep into:
 
 ---
 
-## 💡 Featured Code Snippets
-
-### Beautiful React Hook Pattern
-```javascript
-// Custom hook for managing async data fetching
-const useFetch = (url) => {
-  const [state, setState] = React.useState({
-    data: null,
-    loading: true,
-    error: null,
-  });
-
-  React.useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch(url);
-        const data = await response.json();
-        setState({ data, loading: false, error: null });
-      } catch (error) {
-        setState({ data: null, loading: false, error });
-      }
-    };
-
-    fetchData();
-  }, [url]);
-
-  return state;
-};
-```
-
-### Tailwind + React Component
-```jsx
-// Reusable Button Component with variants
-export const Button = ({ variant = 'primary', children, ...props }) => {
-  const variants = {
-    primary: 'bg-blue-600 hover:bg-blue-700 text-white',
-    secondary: 'bg-cyan-500 hover:bg-cyan-600 text-white',
-    danger: 'bg-indigo-600 hover:bg-indigo-700 text-white',
-  };
-
-  return (
-    <button className={`px-4 py-2 rounded-lg transition ${variants[variant]}`} {...props}>
-      {children}
-    </button>
-  );
-};
-```
-
----
-
 ## 💬 Testimonials & Recommendations
 
 > *"Abasiubong is an exceptional developer who delivered our project ahead of schedule with exceptional quality. Highly recommended!"*
