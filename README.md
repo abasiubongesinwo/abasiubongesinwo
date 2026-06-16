@@ -1,4 +1,5 @@
-# Abasiubong Esinwo
+```markdown
+# Abasiubong Esinwo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 ### Full Stack Engineer 
 
 Building scalable, performant web applications with a focus on clean architecture and exceptional user experiences.
@@ -83,3 +84,5 @@ I am actively seeking opportunities to contribute to innovative teams and projec
 * 📧 **Email:** abasiubongesinwo@gmail.com
 * 💼 **LinkedIn:** [Abasiubong Esinwo](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
 * 📱 **WhatsApp:** [+234 704 555 9667](https://wa.me/2347045559667)
+
+```
