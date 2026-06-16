@@ -1,85 +1,72 @@
 ```markdown
-# Abasiubong Esinwo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-### Full Stack Engineer 
+# Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Thanks for stopping by.
 
-Building scalable, performant web applications with a focus on clean architecture and exceptional user experiences.
+### I am ✨ Abasiubong Esinwo ✨
+A dynamic and steadfast Full Stack Engineer with a solid foundation in constructing robust web applications within fast-paced, collaborative settings. A creative force committed to delivering clean architecture and innovative, performance-driven digital solutions. 
 
-[LinkedIn](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/) • [GitHub](https://github.com/codewithesinwo) • [Email](mailto:abasiubongesinwo@gmail.com) • [WhatsApp](https://wa.me/2347045559667)
-
----
-
-## 👤 Professional Summary
-
-Result-driven Full Stack Engineer with a proven track record of designing and deploying robust web applications. Adept at bridging the gap between complex backend logic and intuitive frontend interfaces. Passionate about writing clean, maintainable code, optimizing system performance, and collaborating with cross-functional teams to deliver high-impact digital products.
-
-*Available for full-time roles, contract positions, and freelance collaborations.*
+Connect with me on:
+<a href="https://www.linkedin.com/in/abasiubongesinwo-6238312a6/" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="16px"> LinkedIn
+</a> • [GitHub](https://github.com/codewithesinwo) • [WhatsApp](https://wa.me/2347045559667)
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠 Tech Stack & Tools
 
-### Frontend Development
-* **Languages & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Frameworks & Libraries:** React.js, Next.js (App Router, SSR, SSG)
-* **Styling & UI:** Tailwind CSS, Bootstrap, Material UI
+### Frontend Engineering
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Tools-CSS3-informational?style=flat&logo=css3&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=0f172a)
 
-### Backend & Database Architecture
-* **Server-Side:** Node.js, Express.js, RESTful API Design
-* **Databases:** MongoDB (NoSQL Data Modeling), PostgreSQL / MySQL
-
-### Tools & DevOps
-* **Version Control & CI/CD:** Git, GitHub, GitHub Actions
-* **Deployment & Cloud:** Vercel, Netlify, Render, Google Cloud Platform
-* **Design & Prototyping:** Figma (UI/UX translation to code)
-
----
-
-## 💼 Work Experience
-
-#### **Full Stack Engineer** | Tech Startup
-*2023 — Present*
-* Architected and deployed 5+ production-ready web applications, ensuring high availability and scalability.
-* Collaborated closely with product managers and designers to translate business requirements into technical solutions.
-* Mentored junior developers, establishing code quality standards through structured code reviews.
-
-#### **Frontend Developer** | Digital Agency
-*2022 — 2023*
-* Delivered 10+ custom client websites, significantly improving cross-browser compatibility and responsiveness.
-* Optimized frontend performance, reducing page load times by 40% across core web vitals.
-
-#### **Full Stack Developer** | Freelance
-*2021 — 2022*
-* Built tailored e-commerce pipelines and content management systems for international clients.
-* Maintained a consistent 4.9/5 client satisfaction rating through transparent communication and timely delivery.
+### Backend & Architecture
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=0f172a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=0f172a)
 
 ---
 
-## 📁 Featured Projects
+## 📊 Live Metrics & Performance
 
-### 🛒 Enterprise E-Commerce Storefront
-* **Description:** A highly performant, fully responsive storefront featuring advanced filtering, secure checkout flow, and dynamic state management.
-* **Stack:** Next.js, TypeScript, Tailwind CSS, Stripe API
-* **Links:** [Live Demo](https://ecommerce.example.com) • [GitHub Repository](https://github.com/abasiubongesinwo)
+<div align="center">
 
-### 📋 Full-Stack Task Management Platform
-* **Description:** A secure productivity application with robust user authentication, real-time data persistence, and comprehensive CRUD operations.
-* **Stack:** React.js, Node.js, Express.js, MongoDB
-* **Links:** [Live Demo](https://portfolio.example.com) • [GitHub Repository](https://github.com/abasiubongesinwo)
+<a href="https://github.com/codewithesinwo">
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=codewithesinwo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=06b6d4&text_color=e2e8f0" alt="Abasiubong Esinwo's GitHub Stats" />
+</a>
+&nbsp;
+<a href="https://github.com/codewithesinwo">
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesinwo&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/codewithesinwo">
+  <img align="center" width="68%" src="http://github-readme-streak-stats.herokuapp.com?user=codewithesinwo&theme=tokyonight&hide_border=true&background=0f172a&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=e2e8f0" alt="Contribution Streak" /> 
+</a>  
+
+</div>
 
 ---
 
-## 🎓 Certifications
+## 🏆 Achievements & Trophies
 
-* **Next.js Advanced Patterns** — Vercel / Frontend Masters
-* **Google Cloud Associate Fundamentals** — Google Cloud
-* **Advanced JavaScript Mastery & Design Patterns** — Udemy
-* **Full Stack Web Development Architecture** — Online Bootcamp
+<div align="center">
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=codewithesinwo&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Collaborate
 
-I am actively seeking opportunities to contribute to innovative teams and projects. Whether you want to discuss a potential role, a project collaboration, or just tech—feel free to reach out.
+I am open to engineering partnerships, full-time opportunities, and strategic project contract roles.
 
 * 📧 **Email:** abasiubongesinwo@gmail.com
 * 💼 **LinkedIn:** [Abasiubong Esinwo](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
