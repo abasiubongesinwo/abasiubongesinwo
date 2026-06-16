@@ -1,252 +1,85 @@
-<div align="center">
+# Abasiubong Esinwo
+### Full Stack Engineer 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0c2340&height=160&text=ABASIUBONG%20ESINWO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=06b6d4&animation=slideDown" />
+Building scalable, performant web applications with a focus on clean architecture and exceptional user experiences.
 
-<br/>
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0c2340)](https://github.com/codewithesinwo)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-3b82f6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0c2340)](https://wa.me/2347045559667)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=abasiubongesinwo&style=for-the-badge&color=06b6d4&label=Profile%20Visitors&labelColor=0c2340)
-
-</div>
-
-<br/>
+[LinkedIn](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/) • [GitHub](https://github.com/codewithesinwo) • [Email](mailto:abasiubongesinwo@gmail.com) • [WhatsApp](https://wa.me/2347045559667)
 
 ---
 
 ## 👤 Professional Summary
 
-I am a **Full Stack Engineer** with over **1 year of experience** designing and building performant, scalable web applications across diverse industries. I thrive in collaborative environments and bring a meticulous eye for detail, clean architecture, and user-centered thinking to every project I touch.
+Result-driven Full Stack Engineer with a proven track record of designing and deploying robust web applications. Adept at bridging the gap between complex backend logic and intuitive frontend interfaces. Passionate about writing clean, maintainable code, optimizing system performance, and collaborating with cross-functional teams to deliver high-impact digital products.
 
-My core strength lies in bridging the gap between design and engineering — turning ideas into production-ready products that are both beautiful and maintainable.
-
-> *Available for freelance projects, contract roles, and full-time opportunities.*
+*Available for full-time roles, contract positions, and freelance collaborations.*
 
 ---
 
-## 🎯 Design Philosophy
+## 🛠 Technical Expertise
 
-I believe in **simplicity with purpose**. Every feature should serve a user need, every line of code should be maintainable, and every interaction should delight. I'm passionate about creating applications that are not just functional, but also beautiful and intuitive. My approach combines:
+### Frontend Development
+* **Languages & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+* **Frameworks & Libraries:** React.js, Next.js (App Router, SSR, SSG)
+* **Styling & UI:** Tailwind CSS, Bootstrap, Material UI
 
-- **User-Centered Design** - Understanding user needs before writing code
-- **Clean Architecture** - Building scalable systems with separation of concerns
-- **Performance First** - Optimizing for speed and efficiency
-- **Accessibility for All** - Ensuring digital inclusivity
+### Backend & Database Architecture
+* **Server-Side:** Node.js, Express.js, RESTful API Design
+* **Databases:** MongoDB (NoSQL Data Modeling), PostgreSQL / MySQL
+
+### Tools & DevOps
+* **Version Control & CI/CD:** Git, GitHub, GitHub Actions
+* **Deployment & Cloud:** Vercel, Netlify, Render, Google Cloud Platform
+* **Design & Prototyping:** Figma (UI/UX translation to code)
 
 ---
 
 ## 💼 Work Experience
 
-| Role | Company | Duration | Highlights |
-|---|---|---|---|
-| **Full Stack Engineer** | Tech Startup | 2023 - Present | Built 5+ production-ready web applications, mentored 2 junior developers |
-| **Frontend Developer** | Digital Agency | 2022 - 2023 | Delivered 10+ client projects, improved page load times by 40% |
-| **Junior Developer** | Freelance | 2021 - 2022 | Completed 15+ projects, maintained 4.9/5 client satisfaction rating |
+#### **Full Stack Engineer** | Tech Startup
+*2023 — Present*
+* Architected and deployed 5+ production-ready web applications, ensuring high availability and scalability.
+* Collaborated closely with product managers and designers to translate business requirements into technical solutions.
+* Mentored junior developers, establishing code quality standards through structured code reviews.
 
----
+#### **Frontend Developer** | Digital Agency
+*2022 — 2023*
+* Delivered 10+ custom client websites, significantly improving cross-browser compatibility and responsiveness.
+* Optimized frontend performance, reducing page load times by 40% across core web vitals.
 
-## 🎓 Education & Certifications
-
-| Certification | Issuer | Year | Focus Area |
-|---|---|---|---|
-| **Full Stack Web Development** | Online Bootcamp | 2021 | React, Node.js, MongoDB |
-| **Advanced JavaScript Mastery** | Udemy | 2022 | ES6+, Async Patterns, Design Patterns |
-| **Google Cloud Associate** | Google Cloud | 2023 | Cloud Architecture, Deployment |
-| **Next.js Advanced** | Vercel / Frontend Masters | 2024 | SSR, SSG, App Router |
-
----
-
-## 🛠 Technical Skills
-
-### Frontend Engineering
-| Technology | Proficiency | Experience | Notes |
-|---|---|---|---|
-| HTML5 / CSS3 | ⭐⭐⭐⭐⭐ | 2+ years | Semantic markup, accessibility, responsive design |
-| JavaScript (ES6+) | ⭐⭐⭐⭐⭐ | 2+ years | Core language, async patterns, DOM manipulation |
-| React.js | ⭐⭐⭐⭐⭐ | 2+ years | Hooks, Context API, component architecture |
-| TypeScript | ⭐⭐⭐⭐ | 1+ years | Type-safe development, interfaces, generics |
-| Next.js | ⭐⭐⭐⭐ | 1+ years | SSR, SSG, App Router |
-| Tailwind CSS | ⭐⭐⭐⭐⭐ | 1+ years | Utility-first styling, custom design systems |
-| Bootstrap | ⭐⭐⭐⭐⭐ | 2+ years | Grid system, components, theming |
-
-### Backend & Tools
-| Technology | Proficiency | Experience | Notes |
-|---|---|---|---|
-| Node.js | ⭐⭐⭐⭐ | 1+ years | REST APIs, server-side rendering |
-| Express.js | ⭐⭐⭐⭐ | 1+ years | Middleware, routing, API design |
-| MongoDB | ⭐⭐⭐ | 1+ years | NoSQL data modeling, aggregation |
-| Git & GitHub | ⭐⭐⭐⭐⭐ | 2+ years | Version control, branching strategies, CI/CD |
-| Figma | ⭐⭐⭐⭐ | 1+ years | UI design, prototyping, design handoff |
-| Vercel / Netlify | ⭐⭐⭐⭐⭐ | 1+ years | CI/CD, deployment pipelines, monitoring |
-
-### Tools & Frameworks I Love
-```
-💻 Development: VS Code, Git, Postman, Webpack
-🎨 Design: Figma, Adobe XD, Framer
-📦 Package Managers: npm, yarn, pnpm
-🧪 Testing: Jest, React Testing Library, Cypress
-☁️ Cloud: Vercel, Netlify, Google Cloud
-🔧 DevOps: Docker, GitHub Actions, Firebase
-```
-
----
-
-## 📊 Live GitHub Statistics
-
-<div align="center">
-
-<!-- Dynamic GitHub Stats with Auto-Update - Blue & Cyan Theme -->
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=abasiubongesinwo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0c2340&title_color=3b82f6&icon_color=06b6d4&text_color=e0e7ff&cache_seconds=1800&animation=slideDown" alt="GitHub Stats" />
-&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c2340&title_color=3b82f6&text_color=e0e7ff&langs_count=8&cache_seconds=1800&animation=slideDown" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Animated Contribution Streak - Blue & Cyan -->
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=abasiubongesinwo&theme=tokyonight&hide_border=true&background=0c2340&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=e0e7ff&dates=555&stroke=06b6d4&animation=slideDown" alt="Contribution Streak" />
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<!-- Auto-updating Trophy Display - Blue Theme -->
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=abasiubongesinwo&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7&animation=slideDown" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity (Auto-Updated)
-
-<div align="center">
-
-<!-- Live Contribution Graph with Animation - Blue & Cyan -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abasiubongesinwo&bg_color=0c2340&color=3b82f6&line=06b6d4&point=6366f1&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph&animation=slideDown" alt="Contribution Activity" />
-
-</div>
-
----
-
-## 📊 Language Distribution
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&hide=html&layout=pie&theme=tokyonight&bg_color=0c2340&title_color=3b82f6&text_color=e0e7ff&cache_seconds=1800&animation=slideDown" alt="Language Distribution" />
-
-</div>
-
----
-
-## 🌐 Open Source Contributions
-
-I actively contribute to the open-source community! Here are some of my notable contributions:
-
-| Project | Type | Contribution | Status |
-|---|---|---|---|
-| 🎨 **React Component Library** | Public | Maintained reusable UI components | Active |
-| 🔧 **Dev Tools Suite** | Public | Created automation scripts for developers | Active |
-| 📦 **npm Packages** | Public | Published 3 utility packages | Maintained |
-| 🤝 **Community Projects** | Collaborative | Contributed to 5+ community projects | Ongoing |
-
-**Contribution Stats:**
-- Total Pull Requests: 12+
-- Issues Resolved: 8+
-- Stars Received: 45+
-- Active Repositories: 7+
-
----
-
-## 🎯 Current Focus
-
-I'm currently diving deep into:
-
-- 🚀 **Cloud Architecture** - Mastering AWS & Google Cloud Platform
-- 🤖 **AI/ML Integration** - Exploring how to integrate AI into web applications
-- 📱 **Mobile Development** - Learning React Native and Flutter
-- 🔐 **Security Best Practices** - Web security, authentication, and data privacy
-- 🎓 **System Design** - Building scalable and maintainable systems
-
-**Next Goals:**
-- [ ] Achieve AWS Solutions Architect certification
-- [ ] Build a successful SaaS product
-- [ ] Contribute more to major open-source projects
-- [ ] Create comprehensive tech tutorials
+#### **Full Stack Developer** | Freelance
+*2021 — 2022*
+* Built tailored e-commerce pipelines and content management systems for international clients.
+* Maintained a consistent 4.9/5 client satisfaction rating through transparent communication and timely delivery.
 
 ---
 
 ## 📁 Featured Projects
 
-> *Pinned repositories reflect my best work. Below are highlights.*
+### 🛒 Enterprise E-Commerce Storefront
+* **Description:** A highly performant, fully responsive storefront featuring advanced filtering, secure checkout flow, and dynamic state management.
+* **Stack:** Next.js, TypeScript, Tailwind CSS, Stripe API
+* **Links:** [Live Demo](https://ecommerce.example.com) • [GitHub Repository](https://github.com/abasiubongesinwo)
 
-| Project | Description | Stack | Status | Live Link |
-|---|---|---|---|---|
-| 🔗 Portfolio Website | Personal portfolio showcasing projects & experience | React, Tailwind, Framer Motion | ✅ Live | [View →](https://portfolio.example.com) |
-| 🛒 E-commerce UI | Responsive storefront with cart & checkout flow | Next.js, TypeScript, CSS Modules | ✅ Live | [View →](https://ecommerce.example.com) |
-| 📋 Task Manager App | Full-stack productivity app with auth & CRUD | React, Node.js, MongoDB | 🔧 In Progress | [Repo →](https://github.com/abasiubongesinwo) |
-| 🎨 Component Library | Reusable UI components with documentation | React, Storybook, Tailwind | 🔧 In Progress | [View →](https://components.example.com) |
-
----
-
-## 💬 Testimonials & Recommendations
-
-> *"Abasiubong is an exceptional developer who delivered our project ahead of schedule with exceptional quality. Highly recommended!"*
-> — **Client A**, Tech Startup
-
-> *"Great attention to detail, clean code, and excellent communication. A true professional."*
-> — **Project Manager B**, Digital Agency
-
-> *"One of the best junior developers I've mentored. Shows strong growth mindset and problem-solving skills."*
-> — **Senior Dev C**, Former Colleague
+### 📋 Full-Stack Task Management Platform
+* **Description:** A secure productivity application with robust user authentication, real-time data persistence, and comprehensive CRUD operations.
+* **Stack:** React.js, Node.js, Express.js, MongoDB
+* **Links:** [Live Demo](https://portfolio.example.com) • [GitHub Repository](https://github.com/abasiubongesinwo)
 
 ---
 
-## 📞 Let's Connect
+## 🎓 Certifications
 
-I'm always open to interesting conversations and collaboration opportunities!
-
-<div align="center">
-
-### Quick Contact Methods
-
-| Platform | Handle | Purpose |
-|---|---|---|
-| 📧 **Email** | abasiubongesinwo@gmail.com | Quick inquiries |
-| 💼 **LinkedIn** | [Abasiubong Esinwo](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/) | Professional networking |
-| 📱 **WhatsApp** | [+234 704 555 9667](https://wa.me/2347045559667) | Direct messaging |
-| 🐙 **GitHub** | [@abasiubongesinwo](https://github.com/abasiubongesinwo) | Code & projects |
-| 🌐 **Portfolio** | [portfolio.example.com](https://portfolio.example.com) | Full portfolio |
-
-</div>
+* **Next.js Advanced Patterns** — Vercel / Frontend Masters
+* **Google Cloud Associate Fundamentals** — Google Cloud
+* **Advanced JavaScript Mastery & Design Patterns** — Udemy
+* **Full Stack Web Development Architecture** — Online Bootcamp
 
 ---
 
-## 🤝 Let's Work Together
+## 🤝 Let's Connect
 
-I am open to **collaborations**, **freelance engagements**, **full-time roles**, and **contract work**. If you have a project that requires a dedicated engineer who takes quality seriously — let's talk.
+I am actively seeking opportunities to contribute to innovative teams and projects. Whether you want to discuss a potential role, a project collaboration, or just tech—feel free to reach out.
 
-<div align="center">
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
-&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-06b6d4?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0c2340)](https://wa.me/2347045559667)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Send%20Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c2340,100:1e3a8a&height=60&section=footer&fontSize=13&fontColor=06b6d4&text=Open%20to%20opportunities%20%C2%B7%20Based%20in%20Nigeria%20%C2%B7%20Available%20worldwide%20remotely&fontAlignY=55&animation=slideDown" />
-
-</div>
+* 📧 **Email:** abasiubongesinwo@gmail.com
+* 💼 **LinkedIn:** [Abasiubong Esinwo](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
+* 📱 **WhatsApp:** [+234 704 555 9667](https://wa.me/2347045559667)
