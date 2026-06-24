@@ -98,51 +98,12 @@ I believe in **simplicity with purpose**. Every feature should serve a user need
 
 ---
 
-## 📊 Live GitHub Statistics
-
-<div align="center">
-
-<!-- Dynamic GitHub Stats with Auto-Update - Blue & Cyan Theme -->
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=abasiubongesinwo&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0c2340&title_color=3b82f6&icon_color=06b6d4&text_color=e0e7ff&cache_seconds=1800&animation=slideDown" alt="GitHub Stats" />
-&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c2340&title_color=3b82f6&text_color=e0e7ff&langs_count=8&cache_seconds=1800&animation=slideDown" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- Animated Contribution Streak - Blue & Cyan -->
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=abasiubongesinwo&theme=tokyonight&hide_border=true&background=0c2340&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=e0e7ff&dates=555&stroke=06b6d4&animation=slideDown" alt="Contribution Streak" />
-
-</div>
-
----
-
 ## 🏆 Achievements & Trophies
 
 <div align="center">
 
 <!-- Auto-updating Trophy Display - Blue Theme -->
 <img width="85%" src="https://github-profile-trophy.vercel.app/?username=abasiubongesinwo&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7&animation=slideDown" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity (Auto-Updated)
-
-<div align="center">
-
-<!-- Live Contribution Graph with Animation - Blue & Cyan -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=abasiubongesinwo&bg_color=0c2340&color=3b82f6&line=06b6d4&point=6366f1&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph&animation=slideDown" alt="Contribution Activity" />
-
-</div>
-
----
-
-## 📊 Language Distribution
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&hide=html&layout=pie&theme=tokyonight&bg_color=0c2340&title_color=3b82f6&text_color=e0e7ff&cache_seconds=1800&animation=slideDown" alt="Language Distribution" />
 
 </div>
 
