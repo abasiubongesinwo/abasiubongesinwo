@@ -81,6 +81,3 @@ I am open to **collaborations**, **freelance engagements**, **full-time roles**,
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c2340,100:1e3a8a&height=60&section=footer&fontSize=13&fontColor=06b6d4&text=Open%20to%20opportunities%20%C2%B7%20Based%20in%20Nigeria%20%C2%B7%20Available%20worldwide%20remotely&fontAlignY=55&animation=slideDown" />
 
 </div>
-
-
-i dont like this readme make it professional and simple no add more newbie things like that just simple,calm, well representive
