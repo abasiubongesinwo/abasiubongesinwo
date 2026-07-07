@@ -56,7 +56,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 | 💼 **LinkedIn** | [Abasiubong Esinwo](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/) | Professional networking |
 | 📱 **WhatsApp** | [+234 704 555 9667](https://wa.me/2347045559667) | Direct messaging |
 | 🐙 **GitHub** | [@abasiubongesinwo](https://github.com/abasiubongesinwo) | Code & projects |
-| 🌐 **Portfolio** | [portfolio.example.com](https://abasiubong.vercel.app) | Full portfolio |
+| 🌐 **Portfolio** | Coming Soon | Portfolio website currently under development |
 
 </div>
 
