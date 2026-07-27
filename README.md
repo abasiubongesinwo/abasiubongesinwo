@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0c2340)](https://github.com/abasiubong)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0c2340)](https://github.com/abasiubongesinwo)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
 &nbsp;
