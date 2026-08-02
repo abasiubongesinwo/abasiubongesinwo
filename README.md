@@ -1,83 +1,76 @@
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0c2340&height=160&text=ABASIUBONG%20ESINWO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%20That%20Matter&descAlignY=68&descColor=06b6d4&animation=slideDown" />
+<h1 align="center">Hi 👋, I'm Abasiubong Esinwo</h1>
 
-<br/>
-<br/>
+<p align="center">
+  <b>Fullstack Engineer • Building Scalable Products • Future Tech Leader</b>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white&labelColor=0c2340)](https://github.com/abasiubongesinwo)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-3b82f6?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0c2340)](https://wa.me/2347045559667)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=abasiubongesinwo&style=for-the-badge&color=06b6d4&label=Profile%20Visitors&labelColor=0c2340)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Building+Zentry+%F0%9F%9A%80;Next.js+%7C+Node.js;I+build+real+products+that+scale" />
+</p>
 
 ---
 
-## 👤 Professional Summary
+<!-- ================= ABOUT ================= -->
 
-I am a **Full Stack Engineer** with over **1 year of experience** designing and building performant, scalable web applications across diverse industries. I thrive in collaborative environments and bring a meticulous eye for detail, clean architecture, and user-centered thinking to every project I touch.
+## 🚀 About Me
 
-My core strength lies in bridging the gap between design and engineering — turning ideas into production-ready products that are both beautiful and maintainable.
+I’m a **fullstack engineer** focused on building real-world, scalable products, not just projects.
 
-> *Available for freelance projects, contract roles, and full-time opportunities.*
-
----
-
-## 🎯 Design Philosophy
-
-I believe in **simplicity with purpose**. Every feature should serve a user need, every line of code should be maintainable, and every interaction should delight. I'm passionate about creating applications that are not just functional, but also beautiful and intuitive. My approach combines:
-
-- **User-Centered Design** - Understanding user needs before writing code
-- **Clean Architecture** - Building scalable systems with separation of concerns
-- **Performance First** - Optimizing for speed and efficiency
-- **Accessibility for All** - Ensuring digital inclusivity
+💡 I don’t just write code — I build systems that solve real problems.
 
 ---
 
-## 📞 Let's Connect
+<!-- ================= TECH STACK ================= -->
 
-I'm always open to interesting conversations and collaboration opportunities!
+## ⚙️ Tech Stack
 
-<div align="center">
+### 🧠 Core
 
-### Quick Contact Methods
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwindcss)
 
-| Platform | Handle | Purpose |
-|---|---|---|
-| 📧 **Email** | abasiubongesinwo@gmail.com | Quick inquiries |
-| 💼 **LinkedIn** | [Abasiubong Esinwo](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/) | Professional networking |
-| 📱 **WhatsApp** | [+234 704 555 9667](https://wa.me/2347045559667) | Direct messaging |
-| 🐙 **GitHub** | [@abasiubongesinwo](https://github.com/abasiubongesinwo) | Code & projects |
-| 🌐 **Portfolio** | Coming Soon | Portfolio website currently under development |
+### ⚙️ Backend
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+
+### 🧰 Tools & Systems
+
+![Paystack](https://img.shields.io/badge/Paystack-000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
 
 ---
 
-## 🤝 Let's Work Together
 
-I am open to **collaborations**, **freelance engagements**, **full-time roles**, and **contract work**. If you have a project that requires a dedicated engineer who takes quality seriously — let's talk.
+<!-- ================= STATS ================= -->
 
-<div align="center">
+## 📊 GitHub Stats
 
-<br/>
+<a href="https://github.com/abasiubongesinwo">
+  <img align="center" src="https://streak-stats.demolab.com?user=abasiubongesinwo&theme=radical&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" /> 
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/Message%20on-LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c2340)](https://www.linkedin.com/in/abasiubongesinwo-6238312a6/)
-&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B2347045559667-06b6d4?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0c2340)](https://wa.me/2347045559667)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Send%20Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c2340)](mailto:abasiubongesinwo@gmail.com)
+---
 
-<br/><br/>
+<!-- ================= VALUE ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c2340,100:1e3a8a&height=60&section=footer&fontSize=13&fontColor=06b6d4&text=Open%20to%20opportunities%20%C2%B7%20Based%20in%20Nigeria%20%C2%B7%20Available%20worldwide%20remotely&fontAlignY=55&animation=slideDown" />
+## 💼 What I Bring
 
-</div>
+✔️ I build production-ready applications
+✔️ I understand both frontend and backend systems
+✔️ I design scalable architectures (not just UI)
+✔️ I integrate real-world systems (payments, verification, APIs)
+
+
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+  ⚡ Building. Learning. Scaling. No excuses.
+</p>
+
+
+
