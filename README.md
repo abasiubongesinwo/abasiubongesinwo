@@ -6,12 +6,6 @@
   <b>Fullstack Engineer • Building Scalable Products • Future Tech Leader</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;Building+UB RESTAURANT+%F0%9F%9A%80;React+%7C+Node.js;I+build+real+products+that+scale" />
-</p>
-
----
-
 <!-- ================= ABOUT ================= -->
 
 ## 🚀 About Me
