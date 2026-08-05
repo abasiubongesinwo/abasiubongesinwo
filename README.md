@@ -43,21 +43,6 @@ Fullstack engineer focused on building real-world, scalable products rather than
   <img src="https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abasiubongesinwo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasiubongesinwo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abasiubongesinwo&theme=default&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## What I Bring
 
 - Production-ready application development, front to back
