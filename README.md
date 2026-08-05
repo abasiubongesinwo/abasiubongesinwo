@@ -55,7 +55,7 @@ Fullstack engineer focused on building real-world, scalable products rather than
 ## Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> ·
-  <a href="https://twitter.com/YOUR-TWITTER">Twitter</a> ·
-  <a href="mailto:YOUR-EMAIL">Email</a>
+  <a href="https://linkedin.com/in/abasiubong-esinwo-effiong">LinkedIn</a> ·
+  <a href="https://x.com/abasiubongesi">X</a> ·
+  <a href="mailto:abasiubongesinwo@gmail.com">Email</a>
 </p>
