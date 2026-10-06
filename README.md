@@ -14,11 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Fullstack+Engineer;React+%26+Node.js;Database+Design+%26+APIs;Production-Ready+Web+Apps" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abasiubongesinwo&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abasiubongesinwo?label=Followers&style=flat-square&color=38BDF8" alt="Followers" />
-</p>
-
 ---
 
 ## About
